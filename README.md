@@ -16,9 +16,9 @@ Ngoài ra, Danny mong muốn sử dụng những thông tin chi tiết này đ�
 
 Để hỗ trợ cho Case Study này, Danny đã ân cần cung cấp ba bộ dữ liệu quan trọng:
 
-Sales - bộ dữ liệu này chứa thông tin có giá trị về các giao dịch diễn ra tại Danny's Diner, bao gồm ID khách hàng, các món trong thực đơn đã đặt và ngày đặt hàng.
-Menu – Bao gồm tất cả những sáng tạo ẩm thực thú vị được cung cấp tại nhà hàng bao gồm cà ri, mì ramen và sushi. Nó chứa các chi tiết như tên mặt hàng và giá của chúng.
-Members – Bộ dữ liệu này chứa thông tin về thời điểm khách hàng tham gia phiên bản beta của chương trình khách hàng thân thiết của Danny.
+- Sales - bộ dữ liệu này chứa thông tin có giá trị về các giao dịch diễn ra tại Danny's Diner, bao gồm ID khách hàng, các món trong thực đơn đã đặt và ngày đặt hàng.
+- Menu – Bao gồm tất cả những sáng tạo ẩm thực thú vị được cung cấp tại nhà hàng bao gồm cà ri, mì ramen và sushi. Nó chứa các chi tiết như tên mặt hàng và giá của chúng.
+- Members – Bộ dữ liệu này chứa thông tin về thời điểm khách hàng tham gia phiên bản beta của chương trình khách hàng thân thiết của Danny.
 
 ### Công cụ sử dụng
 
